@@ -16,7 +16,12 @@ I'm a highly skilled developer passionate about JavaScript, React.js, Node.js, R
 <img src="https://res.cloudinary.com/rohanss/image/upload/v1696665915/jest-svgrepo-com_dothfh.svg" alt="jestlogo" width="50" height="50">
 <img src="https://cdn.image.st-hatena.com/image/square/3cdf272e65fa8ac7d79033c868921ba18c62c982/backend=imagemagick;height=200;version=1;width=200/https%3A%2F%2Ftesting-library.com%2Fimg%2Foctopus-128x128.png" alt="reacttestinglogo" width="50" height="50">
 </div>
-    
+
+###  State Management Tool
+<img src="https://res.cloudinary.com/rohanss/image/upload/v1696669193/redux_x7ldzd.svg" alt="jestlogo" width="50" height="50">
+
+
+
 
 ## 📫 Contact Me
 
