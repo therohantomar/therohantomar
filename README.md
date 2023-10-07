@@ -4,7 +4,6 @@ I'm a highly skilled developer passionate about JavaScript, React.js, Node.js, R
 
 ## 💪 Skills and Technologies
 
-![react Logo](https://twitter.com/reactjs/photo)
 
 - JavaScript: 💡 Highly skilled in JavaScript and its modern frameworks, with a focus on React.js and Node.js.
 - React.js: 🌟 Experienced in building dynamic and interactive user interfaces using React.js and its ecosystem.
