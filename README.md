@@ -3,9 +3,9 @@
 I'm a highly skilled developer passionate about JavaScript, React.js, Node.js, REST API, GraphQL, SQL. 💻 I love building scalable and user-friendly web applications and I'm always eager to learn and explore new technologies.
 
 ## 💪 Skills and Technologies
+<img src="https://res.cloudinary.com/rohanss/image/upload/v1696663492/react-2_ypmtqi.svg" alt="reactlogo" width="300" height="200">
 
 
-![React Logo](https://res.cloudinary.com/rohanss/image/upload/v1696663492/react-2_ypmtqi.svg)
 
 ## 📫 Contact Me
 
