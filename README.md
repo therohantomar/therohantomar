@@ -8,7 +8,7 @@ Welcome to my corner of the coding universe! I'm a frontend virtuoso with a pass
 - **Frameworks/Libraries**: React.js, Nuxt.js, Astro.js
 - **CSS Wizardry**: Tailwind CSS
 - **Backend Brilliance**: Node.js (Express.js), GraphQL (ongoing exploration)
-- **Data Mastery**: SQL (MySQL, PostgreSQL), MongoDB (inquisitive learning)
+- **Data Mastery**: SQL (MySQL, PostgreSQL, Oracle), MongoDB, FaunaDB, Firestore (inquisitive learning)
 - **Testing Arsenal**: Jest, React Testing Library
 - **Dev Tools**: Webpack, ESLint, Prettier
 
