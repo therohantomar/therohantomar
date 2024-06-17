@@ -19,7 +19,7 @@ Currently nurturing my backend skills with Express.js for building robust APIs a
 ## 📫 Let's Connect & Collaborate
 
 - Drop me a line: [therohantomar@gmail.com](mailto:therohantomar@gmail.com)
-- Connect on LinkedIn: [linkedin.com/in/rohantomar](https://www.linkedin.com/in/therohantomar/)
+- Connect on LinkedIn: [linkedin.com/in/rohantomar](https://www.linkedin.com/in/therohantomar)
 
 
 Let's create something amazing together! Feel free to reach out for projects, tech discussions, or just to geek out about the latest tools and trends. 🌟
